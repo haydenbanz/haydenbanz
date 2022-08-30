@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm technicalhayden</h1>
-<h3 align="center">A passionated about 📱𝔸𝕡𝕡 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 👩‍💻𝔾𝕖𝕖𝕜|🕵️𝔾𝕒𝕣𝕪 𝕙𝕒𝕥 |📚𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖| 🤓𝕊𝕖𝕝𝕗 𝕃𝕖𝕒𝕣𝕟𝕖𝕣 |👽𝕔𝕠𝕕𝕚𝕟𝕘 |👀𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪| 👨‍🔬𝔹𝕚𝕠𝕥𝕖𝕔𝕙 𝕚𝕤 𝕞𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟</h3>
+### <h1 align="center">Hi there👋, I'm <a href="http://technicalhayden.cf">Technicalhayden</a>!</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
+![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
+
+Working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
+The community's goal is to help new folks get started with open-source and to help existing folks get more involved in the open-source communities. 
+Creating technical content, blogs, and tutorials for the community.
+These are great ways to learn about open-source and to share your knowledge with the community.
+The goal for the coming months is to contribute more to open-source and help new folks to get into open-source and cyber-security. <br>
+Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Java • Git GitHub, Linux, Computer Networks • Web: HTML CSS JavaScript and React •  APIs • Cyber Security: Web App Penetration Testing.
+
+
+</div><p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicalhayden" alt="technicalhayden" /></a> </p>
 
@@ -20,11 +29,27 @@
 - 💬 Ask me about **python php tech idea**
 
 - 📫 How to reach me **cubedimension@protonmail.com**
+### My Latest Blog Posts:
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://medium.com/@technicalhaydeen/what-is-the-tor-browser-2537f885ea3f" title="What is the Tor Browser? (something new in short)"><img src="https://miro.medium.com/max/700/0*UZJaUnRKrsBzNMwZ" alt="What is the Tor Browser? (something new in short)" width="250px" align="left" /></a>
+<a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="What is the Tor Browser? (something new in short)"><strong>What is the Tor Browser? (something new in short)</strong></a>
+<br/> What is the Tor Browser?
+The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.. </p> <br/> <br/>
+<br>
+<br>
+<br>
 
+<p align="left">
+<a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="5 ways to protect your android?"><img src="https://miro.medium.com/max/700/1*dAtDo9KNCWAIwItfFsJnzw.jpeg" alt="5 WAYS TO PROTECT YOUR ANDROID?" width="250px" align="left" /></a>
+<a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="5 ways to protect your android?"><strong>5 ways to protect your android?</strong></a>
+<br/> In the new era of technology, cybercrime has been developing day by day so we are thinking about how can we protect our android phone... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
+<br>
+<br>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a algin="center"  href="https://codepen.io/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="technicalhayden" height="30" width="40" /></a>
