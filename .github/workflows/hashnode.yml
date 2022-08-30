@@ -1,0 +1,24 @@
+name: "Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */24 * * *' # Runs Every 24 Hours
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        with:
+          USERNAME: 'kabir0x23' # Hashnode Username
+          COUNT: 2 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://technicalhayden.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
