@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there👋, I'm <a href="http://technicalhayden.cf">Technicalhayden</a>!</h1>
 
-![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/178658993-e498afd0-db9c-4f4d-ab59-0b0d5e14ab83.png "Kabir0x23")
+![GitHub_kabir0x23](https://github.com/technicalhayden/Technicalhayden/blob/main/github/8_30_2022%201_50_24%20PM.png?raw=true "cybercube")
 
 Working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
 The community's goal is to help new folks get started with open-source and to help existing folks get more involved in the open-source communities. 
@@ -42,15 +42,17 @@ The Tor Browser is a web broswer that anonymizes your web traffic using the Tor 
 <br>
 
 <p align="left">
-<a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="5 ways to protect your android?"><img src="https://miro.medium.com/max/700/1*dAtDo9KNCWAIwItfFsJnzw.jpeg" alt="5 WAYS TO PROTECT YOUR ANDROID?" width="250px" align="left" /></a>
+<a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="5 ways to protect your android?"><img src="https://miro.medium.com/max/700/1*dAtDo9KNCWAIwItfFsJnzw.jpeg" alt="5 WAYS TO PROTECT YOUR ANDROID?" width="250px" height="250px" align="left" /></a>
 <a href="https://medium.com/@technicalhaydeen/5-ways-to-protect-your-android-c0f4ed8d9075" title="5 ways to protect your android?"><strong>5 ways to protect your android?</strong></a>
-<br/> In the new era of technology, cybercrime has been developing day by day so we are thinking about how can we protect our android phone... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+<br/> In the new era of technology, cybercrime has been developing day by day so we are thinking about how can we protect our android phone... </p>
+<br/>
+<br/> <br/><br/>
+<!-- HASHNODE_BLOG:END --><br/>
 
 <br>
 <br>
 <br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a algin="center"  href="https://codepen.io/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="technicalhayden" height="30" width="40" /></a>
 <a algin="center" href="https://dev.to/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="technicalhayden" height="30" width="40" /></a>
