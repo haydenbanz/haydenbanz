@@ -9,7 +9,7 @@ These are great ways to learn about open-source and to share your knowledge with
 The goal for the coming months is to contribute more to open-source and help new folks to get into open-source and cyber-security. <br>
 Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Java • Git GitHub, Linux, Computer Networks • Web: HTML CSS JavaScript and React •  APIs • Cyber Security: Web App Penetration Testing.
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/techdenlab227.png" alt="TryHackMe">
 </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicalhayden" alt="technicalhayden" /></a> </p>
