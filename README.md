@@ -9,6 +9,7 @@ The community works on open-source projects and helps beginners and existing mem
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicalhayden" alt="technicalhayden" /></a> </p>
 
+
 <p align="left"> <a href="https://twitter.com/technicalhayden" target="blank"><img src="https://img.shields.io/twitter/follow/technicalhayden?logo=twitter&style=for-the-badge" alt="technicalhayden" /></a> </p>
 
 - 🔭 I’m currently working on [Cube Securities](https://cubesecurity.cf/)
