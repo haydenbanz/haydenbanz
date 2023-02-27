@@ -3,12 +3,7 @@
 
 <h1 align="center">Hi there👋, I'm <a href="http://technicalhayden.cf">Technicalhayden</a>!</h1>
 <h3 align="center">A passionate Techice</h3>
-Working on **open-source** projects,  and communities, where people can contribute and get started with their open-source journey.
-The community's goal is to help new folks get started with open-source and to help existing folks get more involved in the open-source communities. 
-Creating technical content, blogs, and tutorials for the community.
-These are great ways to learn about open-source and to share your knowledge with the community.
-The goal for the coming months is to contribute more to open-source and help new folks to get into open-source and cyber-security. <br>
-Familiar with: DevOps: Docker and Kubernetes • Python, Go, YAML, Bash, and Java • Git GitHub, Linux, Computer Networks • Web: HTML CSS JavaScript and React •  APIs • Cyber Security: Web App Penetration Testing.
+The community works on open-source projects and helps beginners and existing members get involved in the community. They create technical content and tutorials to share knowledge. The goal is to contribute more to open-source and promote cyber-security. Proficient in DevOps, programming languages, Git, GitHub, Linux, Web development, APIs, and Cyber Security, including Web App Penetration Testing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 
