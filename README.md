@@ -80,10 +80,9 @@
   <a href="https://github.com/technicalhayden">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalhayden&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
-</p>
+</p>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technicalhayden&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technicalhayden&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technicalhayden&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technicalhayden&theme=nightowl)
 
 
 
