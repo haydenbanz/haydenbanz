@@ -1,4 +1,5 @@
-![Profile Banner](https://github.com/technicalhayden/Technicalhayden/blob/main/github/8_30_2022%201_50_24%20PM.png)
+![Image](https://github.com/mindglitchers/mindglitchers/raw/main/github/8_30_2022%201_50_24%20PM.png)
+
 
 # 👋 Hey there, I'm Hayden!
 
