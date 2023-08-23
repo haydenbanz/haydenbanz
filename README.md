@@ -13,7 +13,7 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 - 🌐 Contributing to open-source projects and valuing collaboration.
 - 📚 A lifelong learner, always on the lookout for new technologies.
 
-
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=mindglitchers&label=Profile%20views&color=0e75b6&style=flat" alt="mindglitchers" /> </p></center>
 <br>
 
 <p align="left">
@@ -28,11 +28,7 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 <br>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mindglitchers&theme=synthwave&row=1& alt="mindglitchers" />
-  </a>
-</p>
+
 
 <h2>Coding Skills</h2>
 
