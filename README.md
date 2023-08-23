@@ -11,10 +11,27 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 - ⚙️ Tinkering with hardware and diving into the world of IoT.
 - 🌐 Contributing to open-source projects and valuing collaboration.
 - 📚 A lifelong learner, always on the lookout for new technologies.
-![Profile Views](https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat)
+
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mindglitchers&theme=synthwave&row=1" alt="mindglitchers" />
+  </a>
+</p>
+
 ## Get in Touch
 
-📫 You can connect with me on GitHub or drop me an email at **cubedimension@protonmail.com**. Let's join forces to build an innovative future together!
+📫 You can connect with me on GitHub or drop me an email at **cubedimension@protonmail.com**. Let's join forces to build an innovative future together!#
+<br>
+
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mindglitchers&theme=synthwave&row=1& alt="mindglitchers" />
+  </a>
+</p>
 
 <h2>Coding Skills</h2>
 
@@ -77,19 +94,20 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
   </tr>
 </table>
 
-
+## TOP 5 CODING LANGUAGES USED
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mindglitchers&theme=synthwave&hide_border=true)
 
 
 
 ## GitHub Stats
- <!-- GitHub Stats Card -->
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mindglitchers&show_icons=true&theme=dark&hide_border=true" />
 
-<!-- Top Languages Card -->
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindglitchers&theme=dark&hide_border=true" />
+
+
+ ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mindglitchers&theme=synthwave&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindglitchers&show_icons=true&theme=synthwave&hide_border=true)
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindglitchers&theme=dark" alt="mindglitchers" /></p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
