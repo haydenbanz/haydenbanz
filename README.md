@@ -87,13 +87,14 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 
 <!-- Top Languages Card -->
 <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindglitchers&theme=dark&hide_border=true" />
-<br>
 
 <br>
-## Support
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindglitchers&theme=dark" alt="mindglitchers" /></p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-If you'd like to support me, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/technicalhayden)
 
-Looking forward to creating and innovating together!
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p><br><br>
