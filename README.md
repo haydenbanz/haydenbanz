@@ -103,13 +103,8 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mindglitchers&theme=synthwave&hide_border=true)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindglitchers&show_icons=true&theme=synthwave&hide_border=true)
 
-<br>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p><br><br>
+
+<p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p>
