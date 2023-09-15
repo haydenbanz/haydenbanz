@@ -1,4 +1,4 @@
-![Image](https://github.com/mindglitchers/haydenbanz/raw/main/github/8_30_2022%201_50_24%20PM.png)
+![Image](https://github.com/haydenbanz/haydenbanz/raw/main/github/8_30_2022%201_50_24%20PM.png)
 
 
 # 👋 Hey there, I'm Hayden!
