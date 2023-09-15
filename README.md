@@ -1,4 +1,4 @@
-![Image](https://github.com/mindglitchers/mindglitchers/raw/main/github/8_30_2022%201_50_24%20PM.png)
+![Image](https://github.com/mindglitchers/haydenbanz/raw/main/github/8_30_2022%201_50_24%20PM.png)
 
 
 # 👋 Hey there, I'm Hayden!
@@ -13,12 +13,12 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 - 🌐 Contributing to open-source projects and valuing collaboration.
 - 📚 A lifelong learner, always on the lookout for new technologies.
 
-<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=mindglitchers&label=Profile%20views&color=0e75b6&style=flat" alt="mindglitchers" /> </p></center>
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" /> </p></center>
 <br>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mindglitchers&theme=synthwave&row=1" alt="mindglitchers" />
+    <img src="https://github-profile-trophy.vercel.app/?usernamehaydenbanz&theme=synthwave&row=1" alt="haydenbanz" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 </table>
 
 ## TOP 5 CODING LANGUAGES USED
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mindglitchers&theme=synthwave&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true)
 
 
 
@@ -100,8 +100,8 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 
 
 
- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mindglitchers&theme=synthwave&hide_border=true)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindglitchers&show_icons=true&theme=synthwave&hide_border=true)
+ ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haydenbanz&theme=synthwave&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true)
 
 
 
