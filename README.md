@@ -18,7 +18,7 @@ I'm a technology enthusiast with a passion for exploring various domains. Here's
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?usernamehaydenbanz&theme=synthwave&row=1" alt="haydenbanz" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=synthwave&row=1" alt="haydenbanz" />
   </a>
 </p>
 
