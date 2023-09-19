@@ -24,51 +24,56 @@
 ʟᴇᴛ'ꜱ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴀɴᴅ ɪɴɴᴏᴠᴀᴛᴇ!
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
 <BR>
 
-<BR><BR>
-<BR>
-<BR>
-<BR><BR><BR>
 ## Skills
 
-### Front-End Development
+![Java](https://img.shields.io/badge/Java-%23007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" />
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?logo=express&logoColor=white&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-%23269539?logo=nginx&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-%230170FE?logo=fastapi&logoColor=white&style=for-the-badge)
 
-### Front-End Development
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?logo=scikit-learn&logoColor=black&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30" width="30" />
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D?logo=arduino&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-%232C3E4C?logo=nodemcu&logoColor=white&style=for-the-badge)
+![IFTTT](https://img.shields.io/badge/IFTTT-%23FF7B24?logo=ifttt&logoColor=white&style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-%2341BDF5?logo=esp8266&logoColor=white&style=for-the-badge)
 
-### Back-End Development
+![Chart JS](https://img.shields.io/badge/Chart%20JS-%23FF6384?logo=chart.js&logoColor=white&style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?logo=grafana&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![IFTTT](https://img.shields.io/badge/IFTTT-%23FF7B24?logo=ifttt&logoColor=white&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="30" />
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="30" width="30" />
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="30" width="30" />
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
 
-## Hardware and IoT
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="30" width="30" />
-<img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="Raspberry Pi" height="30" width="30" />
-<img src="https://www.nodemcu.com/images/thumbnail/nodemcu-style5-150px.png_150x150.png" alt="NodeMCU" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="30" width="30" />
-<img src="https://www.espressif.com/sites/all/themes/espressif/favicon.ico" alt="ESP8266" height="30" width="30" />
+##  ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ
 
-## AI/ML
+[![Twitter](https://img.shields.io/twitter/follow/0x_hayden?color=%2300ACEE&label=Twitter&style=round-square&logo=twitter)](https://twitter.com/0x_h4yd3n)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=round-square)](https://www.instagram.com/0x_hayden/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=round-square)](https://www.linkedin.com/in/technicalhayden)
+[![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white&style=round-square)](mailto:barneshayden278@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=round-square)](https://discord.com/users/0x_m4db0t)
 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="30" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="30" width="30" />
+
