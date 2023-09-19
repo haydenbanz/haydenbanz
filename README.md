@@ -82,4 +82,5 @@
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave&hide_border=true&layout=compact" alt="Harlok's WakaTime Stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
 
-
+# ᴅᴏᴀɴᴛᴇ ᴜꜱ
+<p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p><br><br>
