@@ -76,7 +76,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=round-square)](https://discord.com/users/0x_m4db0t)
 
 
-##  coding time
+##  ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ
+
+<BR>
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave&hide_border=true&layout=compact" alt="Harlok's WakaTime Stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
 
