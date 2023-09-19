@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" />
 
 ##  About Me
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact">
+
 - 💻 ᴘʀᴏꜰɪᴄɪᴇɴᴛ ɪɴ ᴘʏᴛʜᴏɴ, ᴘʜᴘ, ᴊᴀᴠᴀ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
 - 🚀 ᴏɴᴇ ʟɪɴᴇ ᴏꜰ ᴄᴏᴅᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ.
 - 🤖 ʜᴀʀɴᴇꜱꜱɪɴɢ ᴛʜᴇ ᴘᴏᴡᴇʀ ᴏꜰ ᴀɪ ᴀɴᴅ ᴍʟ.
@@ -22,6 +22,12 @@
 - 📚 ʟɪꜰᴇʟᴏɴɢ ᴛᴇᴄʜ ʟᴇᴀʀɴᴇʀ.
 
 ʟᴇᴛ'ꜱ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴀɴᴅ ɪɴɴᴏᴠᴀᴛᴇ!
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+
+
 ## Skills
 
 ### Front-End Development
