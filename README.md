@@ -1,7 +1,7 @@
 
 
 # ʜᴀʏᴅᴇɴ ʙᴀʀɴᴇꜱ (ɢʟɪᴛᴄʜᴍɪɴᴅs) 🔭
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact">
 
 
 ### ʜᴇʏ, ᴡʜᴀᴛ'ꜱ ᴜᴘ? 👋 ɪᴛ'ꜱ ᴍᴇ. ᴄᴏᴏʟ, ʀɪɢʜᴛ?
