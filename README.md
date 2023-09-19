@@ -8,7 +8,12 @@
  💬 𝙰𝚕𝚜𝚘 𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 𝙶𝚕𝚒𝚝𝚌𝚑𝚖𝚒𝚗𝚍, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚊𝚕𝚕 𝚖𝚎 𝙷𝚊𝚢𝚍𝚎𝚗. 
  > ⚡ I'ᴍ ᴘᴀssɪᴏɴᴀᴛᴇᴅ ᴀʙᴏᴜᴛ 🌐 Oᴘᴇɴ-sᴏᴜʀᴄᴇ, AI, 💻 Cᴏᴅɪɴɢ, 🤖 Rᴏʙᴏᴛɪᴄs, 🧬 Bɪᴏᴛᴇᴄʜ, ⚛️ Qᴜᴀɴᴛᴜᴍ Pʜʏsɪᴄs, 🔒 Cʏʙᴇʀsᴇᴄᴜʀɪᴛʏ, ᴀɴᴅ 🏗️ Hᴀʀᴅᴡᴀʀᴇ.<br>
  > ✦ʟᴇᴛ ᴛʜᴇ ᴄᴏᴅᴇ ɢʟɪᴛᴄʜ, ʟᴇᴛ ʏᴏᴜʀ ᴍɪɴᴅ ᴛʀᴀɴꜱᴄᴇɴᴅ✦
-
+> 
+[![Twitter](https://img.shields.io/twitter/follow/0x_hayden?color=%2300ACEE&label=Twitter&style=round-square&logo=twitter)](https://twitter.com/0x_h4yd3n)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=round-square)](https://www.instagram.com/0x_hayden/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=round-square)](https://www.linkedin.com/in/technicalhayden)
+[![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white&style=round-square)](mailto:barneshayden278@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=round-square)](https://discord.com/users/0x_m4db0t)
 <img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" />
 
 ##  About Me
@@ -67,13 +72,9 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
-##  ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ
 
-[![Twitter](https://img.shields.io/twitter/follow/0x_hayden?color=%2300ACEE&label=Twitter&style=round-square&logo=twitter)](https://twitter.com/0x_h4yd3n)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=round-square)](https://www.instagram.com/0x_hayden/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=round-square)](https://www.linkedin.com/in/technicalhayden)
-[![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white&style=round-square)](mailto:barneshayden278@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=round-square)](https://discord.com/users/0x_m4db0t)
+
+
 
 
 ##  ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ
@@ -81,6 +82,13 @@
 <BR>
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave&hide_border=true&layout=compact" alt="Harlok's WakaTime Stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+ ## OS USED
+![Windows](https://img.shields.io/badge/Windows-%230078D7.svg?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23151717.svg?style=flat-square&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%231487B4.svg?style=flat-square&logo=parrot-security&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
 
 # ᴅᴏᴀɴᴛᴇ ᴜꜱ
 <p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p><br><br>
