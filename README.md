@@ -65,8 +65,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
-
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ##  ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ
 
@@ -78,5 +77,7 @@
 
 
 ##  coding time
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave)](https://github.com/haydenbanz/github-readme-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave&hide_border=true&layout=compact" alt="Harlok's WakaTime Stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+
 
