@@ -26,8 +26,12 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+<BR>
 
-
+<BR><BR>
+<BR>
+<BR>
+<BR><BR><BR>
 ## Skills
 
 ### Front-End Development
