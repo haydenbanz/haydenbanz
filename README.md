@@ -1,16 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true">
+
 
 # ʜᴀʏᴅᴇɴ ʙᴀʀɴᴇꜱ (ɢʟɪᴛᴄʜᴍɪɴᴅs) 🔭
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true">
 ### ʜᴇʏ, ᴡʜᴀᴛ'ꜱ ᴜᴘ? 👋 ɪᴛ'ꜱ ᴍᴇ. ᴄᴏᴏʟ, ʀɪɢʜᴛ?
  💬 𝙰𝚕𝚜𝚘 𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 𝙶𝚕𝚒𝚝𝚌𝚑𝚖𝚒𝚗𝚍, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚊𝚕𝚕 𝚖𝚎 𝙷𝚊𝚢𝚍𝚎𝚗. 
  > ⚡ I'ᴍ ᴘᴀssɪᴏɴᴀᴛᴇᴅ ᴀʙᴏᴜᴛ 🌐 Oᴘᴇɴ-sᴏᴜʀᴄᴇ, AI, 💻 Cᴏᴅɪɴɢ, 🤖 Rᴏʙᴏᴛɪᴄs, 🧬 Bɪᴏᴛᴇᴄʜ, ⚛️ Qᴜᴀɴᴛᴜᴍ Pʜʏsɪᴄs, 🔒 Cʏʙᴇʀsᴇᴄᴜʀɪᴛʏ, ᴀɴᴅ 🏗️ Hᴀʀᴅᴡᴀʀᴇ.<br>
  > ✦ʟᴇᴛ ᴛʜᴇ ᴄᴏᴅᴇ ɢʟɪᴛᴄʜ, ʟᴇᴛ ʏᴏᴜʀ ᴍɪɴᴅ ᴛʀᴀɴꜱᴄᴇɴᴅ✦
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact">
+
 <img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" />
 
 ##  About Me
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact">
 - 💻 ᴘʀᴏꜰɪᴄɪᴇɴᴛ ɪɴ ᴘʏᴛʜᴏɴ, ᴘʜᴘ, ᴊᴀᴠᴀ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
 - 🚀 ᴏɴᴇ ʟɪɴᴇ ᴏꜰ ᴄᴏᴅᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ.
 - 🤖 ʜᴀʀɴᴇꜱꜱɪɴɢ ᴛʜᴇ ᴘᴏᴡᴇʀ ᴏꜰ ᴀɪ ᴀɴᴅ ᴍʟ.
