@@ -1,112 +1,62 @@
-![Image](https://github.com/haydenbanz/haydenbanz/raw/main/github/8_30_2022%201_50_24%20PM.png)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true">
 
+# ʜᴀʏᴅᴇɴ ʙᴀʀɴᴇꜱ (ɢʟɪᴛᴄʜᴍɪɴᴅs) 🔭
 
-# 👋 Hey there, I'm Hayden!
+### ʜᴇʏ, ᴡʜᴀᴛ'ꜱ ᴜᴘ? 👋 ɪᴛ'ꜱ ᴍᴇ. ᴄᴏᴏʟ, ʀɪɢʜᴛ?
+ 💬 𝙰𝚕𝚜𝚘 𝚔𝚗𝚘𝚠𝚗 𝚊𝚜 𝙶𝚕𝚒𝚝𝚌𝚑𝚖𝚒𝚗𝚍, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌𝚊𝚕𝚕 𝚖𝚎 𝙷𝚊𝚢𝚍𝚎𝚗. 
+ > ⚡ I'ᴍ ᴘᴀssɪᴏɴᴀᴛᴇᴅ ᴀʙᴏᴜᴛ 🌐 Oᴘᴇɴ-sᴏᴜʀᴄᴇ, AI, 💻 Cᴏᴅɪɴɢ, 🤖 Rᴏʙᴏᴛɪᴄs, 🧬 Bɪᴏᴛᴇᴄʜ, ⚛️ Qᴜᴀɴᴛᴜᴍ Pʜʏsɪᴄs, 🔒 Cʏʙᴇʀsᴇᴄᴜʀɪᴛʏ, ᴀɴᴅ 🏗️ Hᴀʀᴅᴡᴀʀᴇ.<br>
+ > ✦ʟᴇᴛ ᴛʜᴇ ᴄᴏᴅᴇ ɢʟɪᴛᴄʜ, ʟᴇᴛ ʏᴏᴜʀ ᴍɪɴᴅ ᴛʀᴀɴꜱᴄᴇɴᴅ✦
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact">
+<img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" />
 
-I'm a technology enthusiast with a passion for exploring various domains. Here's a glimpse of what I'm into:
+##  About Me
 
-- 💻 Coding in languages like Java, JavaScript, PHP, and Python.
-- 🚀 Pushing the boundaries of technology through innovation.
-- 🤖 Combining AI and drones for creative solutions.
-- 🔒 Strengthening cybersecurity with robust systems.
-- ⚙️ Tinkering with hardware and diving into the world of IoT.
-- 🌐 Contributing to open-source projects and valuing collaboration.
-- 📚 A lifelong learner, always on the lookout for new technologies.
+- 💻 ᴘʀᴏꜰɪᴄɪᴇɴᴛ ɪɴ ᴘʏᴛʜᴏɴ, ᴘʜᴘ, ᴊᴀᴠᴀ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
+- 🚀 ᴏɴᴇ ʟɪɴᴇ ᴏꜰ ᴄᴏᴅᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ.
+- 🤖 ʜᴀʀɴᴇꜱꜱɪɴɢ ᴛʜᴇ ᴘᴏᴡᴇʀ ᴏꜰ ᴀɪ ᴀɴᴅ ᴍʟ.
+- 🔒 ɪ ᴀᴍ ᴛʜᴇ ʙʀɪᴅɢᴇ ʙᴇᴛᴡᴇᴇɴ ꜱʜᴀᴅᴏᴡꜱ ᴀɴᴅ ʟɪɢʜᴛ ɪɴ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ᴡᴏʀʟᴅ.
+- ⚙️ ɪᴏᴛ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴀɴᴅ ʜᴀʀᴅᴡᴀʀᴇ ᴛɪɴᴋᴇʀᴇʀ.
+- 🌐 ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ, ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀᴅᴠᴏᴄᴀᴛᴇ.
+- 📚 ʟɪꜰᴇʟᴏɴɢ ᴛᴇᴄʜ ʟᴇᴀʀɴᴇʀ.
 
-<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=haydenbanz&label=Profile%20views&color=0e75b6&style=flat" alt="haydenbanz" /> </p></center>
-<br>
+ʟᴇᴛ'ꜱ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴀɴᴅ ɪɴɴᴏᴠᴀᴛᴇ!
+## Skills
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=synthwave&row=1" alt="haydenbanz" />
-  </a>
-</p>
+### Front-End Development
 
-## Get in Touch
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" />
 
-📫 You can connect with me on GitHub or drop me an email at **cubedimension@protonmail.com**. Let's join forces to build an innovative future together!#
-<br>
+### Front-End Development
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30" width="30" />
 
+### Back-End Development
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="30" />
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="30" width="30" />
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="30" width="30" />
 
-<h2>Coding Skills</h2>
+## Hardware and IoT
 
-<h3>Front-End Development</h3>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="30" width="30" />
+<img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="Raspberry Pi" height="30" width="30" />
+<img src="https://www.nodemcu.com/images/thumbnail/nodemcu-style5-150px.png_150x150.png" alt="NodeMCU" height="30" width="30" />
+<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="30" width="30" />
+<img src="https://www.espressif.com/sites/all/themes/espressif/favicon.ico" alt="ESP8266" height="30" width="30" />
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="50" /></td>
-  </tr>
-</table>
+## AI/ML
 
-<h3>Front-End Development</h3>
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" width="50" /></td>
-  </tr>
-</table>
-
-<h3>Back-End Development</h3>
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50" width="50" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" width="50" /></td>
-    <td><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" width="50" /></td>
-  </tr>
-</table>
-
-<h2>Hardware and IoT</h2>
-
-<table>
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" width="50" /></td>
-    <td><img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="Raspberry Pi" height="50" width="50" /></td>
-    <td><img src="https://www.nodemcu.com/images/thumbnail/nodemcu-style5-150px.png_150x150.png" alt="NodeMCU" height="50" width="50" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="50" width="50" /></td>
-    <td><img src="https://www.espressif.com/sites/all/themes/espressif/favicon.ico" alt="ESP8266" height="50" width="50" /></td>
-  </tr>
-</table>
-
-<h2>AI/ML</h2>
-
-<table>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" width="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" width="50" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" width="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" width="50" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" width="50" /></td>
-  </tr>
-</table>
-
-## TOP 5 CODING LANGUAGES USED
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true)
-
-
-
-## GitHub Stats
-
-
-
- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haydenbanz&theme=synthwave&hide_border=true)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&theme=synthwave&hide_border=true)
-
-
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/technicalhayden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technicalhayden" /></a></p><br><br>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="30" width="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="30" width="30" />
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="30" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="30" width="30" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="30" width="30" />
