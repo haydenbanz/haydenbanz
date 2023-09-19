@@ -77,3 +77,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=round-square)](https://discord.com/users/0x_m4db0t)
 
 
+##  coding time
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave)](https://github.com/haydenbanz/github-readme-stats)
+
