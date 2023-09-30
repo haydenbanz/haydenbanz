@@ -2,7 +2,8 @@
 # ʜᴀʏᴅᴇɴ ʙᴀʀɴᴇꜱ (ɢʟɪᴛᴄʜᴍɪɴᴅs) 🔭
 
 ### ʜᴇʏ, ᴡʜᴀᴛ'ꜱ ᴜᴘ? 👋 ɪᴛ'ꜱ ᴍᴇ. ᴄᴏᴏʟ, ʀɪɢʜᴛ?
-```[Hayden@root ~/glitch]$ cat Hayden.py
+```python
+[Hayden@root ~/glitch]$ cat Hayden.py
 from Glitch import Hayden
     def profile():
         self.web = "haydenbanz.github.io/"
