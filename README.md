@@ -102,10 +102,12 @@ ABOUT US
 
 「ᴄʟᴏᴜᴅ ʜᴏꜱᴛɪɴɢ ɪ ᴜꜱᴇᴅ」
 
-> [![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-Hosted-yellow.svg?style=flat-square&logoColor=white)](https://firebase.google.com/products/hosting)
-[![Netlify](https://img.shields.io/badge/Netlify-Hosted-brightgreen.svg?style=flat-square)](https://www.netlify.com/)
-[![GitLab Pages](https://img.shields.io/badge/GitLab%20Pages-Hosted-orange.svg?style=flat-square)](https://about.gitlab.com/stages-devops-lifecycle/pages/)
-[![Vercel](https://img.shields.io/badge/Vercel-Hosted-blue.svg?style=flat-square)](https://vercel.com/)
+> ![Firebase Hosting](https://img.shields.io/badge/Firebase-Hosting-orange?style=flat-square&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-333?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-brightgreen?style=flat-square&logo=netlify)
+
+
 
 
 
