@@ -92,7 +92,6 @@ ABOUT US
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![IFTTT](https://img.shields.io/badge/IFTTT-%23FF7B24?logo=ifttt&logoColor=white&style=for-the-badge)<BR>
 
-
 「ᴏᴛʜᴇʀ」
 
 > ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=flat-square)
@@ -100,6 +99,14 @@ ABOUT US
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+「ᴄʟᴏᴜᴅ ʜᴏꜱᴛɪɴɢ ɪ ᴜꜱᴇᴅ」
+
+> [![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-Hosted-yellow.svg?style=flat-square&logoColor=white)](https://firebase.google.com/products/hosting)
+[![Netlify](https://img.shields.io/badge/Netlify-Hosted-brightgreen.svg?style=flat-square)](https://www.netlify.com/)
+[![GitLab Pages](https://img.shields.io/badge/GitLab%20Pages-Hosted-orange.svg?style=flat-square)](https://about.gitlab.com/stages-devops-lifecycle/pages/)
+[![Vercel](https://img.shields.io/badge/Vercel-Hosted-blue.svg?style=flat-square)](https://vercel.com/)
+
 
 
 
