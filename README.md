@@ -138,9 +138,8 @@ ABOUT US
 
 ##  ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ
 
-<BR>
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haydenbanz&theme=synthwave&hide_border=true&layout=compact" alt="Harlok's WakaTime Stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&langs_count=4&layout=compact"><br>
+<BR><img src="https://tryhackme-badges.s3.amazonaws.com/haydenbarnes.png" alt="TryHackMe">
+<br>
 
 
 # ᴅᴏᴀɴᴛᴇ ᴜꜱ
