@@ -70,8 +70,9 @@ AI ml iot developer
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Intermediate-yellow?style=flat&logo=github)
 
 
-## wka
+## Languages over 7 days
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@haydenbanz/898af29e-2025-4885-a7df-4f8df55990b7.png" /></a>
+
 
 
 ## Find Me Online
