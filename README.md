@@ -1,46 +1,51 @@
+# Hello, I'm Hayden Barnes! ð
 
-# Hello there! 👋
+â¢ï¸ | ð¨ð¼âð» | ð¤ âãã¼ã³ãºâ Donât study me. You wonât graduateð <3
 
+## About Me
 
-### バーンズ:
+- AI/ML IoT Developer
+- Founder & CTO of Code Glitch
 
-☢️ | 👨🏼‍💻 | 💤
-∅バーンズ∅
-Don’t study me. You won’t graduate🎓
-<3
-            
+## Skills
 
-### Streetcred:
+### Coding
 
-<a href="https://www.tublian.com/profile/haydenbanz?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/haydenbanz?type=without_score"></a>
+- Python
+- JavaScript
+- PHP
 
-### My Stack:
+### Frontend
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/MLOps"/>
+- HTML
+- CSS
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Java"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
+### Backend
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Backend"/>
+- Flask
+- Node.js
+- Git
+- Docker
 
-### Links:
+### AI/ML
 
-### <a href="https://www.github.com/haydenbanz">github</a>
+- PyTorch
+- OpenCV
+- Pandas
+- TensorFlow
+- Scikit-Learn
 
-## 👇 Few things about me
+### IoT & Hardware Dev
 
+- Raspberry Pi
+- Arduino
+- OpenCV
+- ESP8266 NodeMCU
 
-<div>
+## Find Me Online
 
-            
+- [GitHub](https://github.com/your_username)
+- [LinkedIn](https://www.linkedin.com/in/your_username)
+- [Twitter](https://twitter.com/your_username)
 
-### summary
-*☢️ | 👨🏼‍💻 | 💤
-∅バーンズ∅
-Don’t study me. You won’t graduate🎓
-<3*
-
-            
-</div>
-
-
-
+Feel free to connect and explore my repositories! ð>
