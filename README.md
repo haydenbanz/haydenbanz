@@ -1,6 +1,8 @@
 # Hello, I'm Hayden Barnes! ð
 
-â¢ï¸ | ð¨ð¼âð» | ð¤ âãã¼ã³ãºâ Donât study me. You wonât graduateð <3
+
+☢️ | 👨🏼‍💻 | 💤 ∅バーンズ∅ Don’t study me. You won’t graduate🎓 <3
+AI ml iot developer
 
 ## About Me
 
@@ -44,8 +46,8 @@
 
 ## Find Me Online
 
-- [GitHub](https://github.com/your_username)
-- [LinkedIn](https://www.linkedin.com/in/your_username)
-- [Twitter](https://twitter.com/your_username)
+- [GitHub](https://github.com/your_username) ð±
+- [LinkedIn](https://www.linkedin.com/in/your_username) ð
+- [Twitter](https://twitter.com/your_username) ð¦
 
-Feel free to connect and explore my repositories! ð>
+Feel free to connect and explore my repositories! ð
