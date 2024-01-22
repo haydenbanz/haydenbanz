@@ -71,8 +71,7 @@ AI ml iot developer
 
 
 ## wka
-<figure><embed src="https://wakatime.com/share/@haydenbanz/6b9b1e49-2932-40cd-b3ce-de27dca5e499.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@haydenbanz/898af29e-2025-4885-a7df-4f8df55990b7.png" /></a>
 
 
 ## Find Me Online
