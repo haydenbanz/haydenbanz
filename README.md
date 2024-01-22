@@ -10,6 +10,19 @@ AI ml iot developer
 - AI/ML IoT Developer
 - Founder & CTO of Code Glitch
 
+## Operating Systems I Use
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-blue?style=flat&logo=kali-linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Expert-blue?style=flat&logo=ubuntu)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-Expert-blue?style=flat&logo=parrot)
+![Debian](https://img.shields.io/badge/Debian-Intermediate-yellow?style=flat&logo=debian)
+![BlackArch](https://img.shields.io/badge/BlackArch-Intermediate-yellow?style=flat&logo=arch-linux)
+![Windows 11](https://img.shields.io/badge/Windows_11-Intermediate-yellow?style=flat&logo=windows)
+![Android](https://img.shields.io/badge/Android-Intermediate-yellow?style=flat&logo=android)
+
+
+
+
 ## Skills
 
 ### Coding
@@ -44,6 +57,20 @@ AI ml iot developer
 ![Arduino](https://img.shields.io/badge/Arduino-Expert-blue?style=flat&logo=arduino)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Expert-blue?style=flat&logo=opencv)
 ![ESP8266 NodeMCU](https://img.shields.io/badge/ESP8266_NodeMCU-Expert-blue?style=flat&logo=espressif)
+
+### Automation
+
+![IFTTT](https://img.shields.io/badge/IFTTT-Intermediate-yellow?style=flat&logo=ifttt)
+![Zapier](https://img.shields.io/badge/Zapier-Intermediate-yellow?style=flat&logo=zapier)
+
+### Cloud Hosting
+
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow?style=flat&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-Intermediate-yellow?style=flat&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Intermediate-yellow?style=flat&logo=github)
+
+
+
 
 ## Find Me Online
 
