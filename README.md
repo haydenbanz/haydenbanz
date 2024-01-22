@@ -4,6 +4,10 @@
 ☢️ | 👨🏼‍💻 | 💤 ∅バーンズ∅ Don’t study me. You won’t graduate🎓 <3
 AI ml iot developer
 
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=your_username)
+
 
 ## About Me
 
