@@ -1,8 +1,9 @@
-# Hello, I'm Hayden Barnes! ð
+# Hi I,m 💬Hayden Barnes
 
 
 ☢️ | 👨🏼‍💻 | 💤 ∅バーンズ∅ Don’t study me. You won’t graduate🎓 <3
 AI ml iot developer
+
 
 ## About Me
 
@@ -13,41 +14,42 @@ AI ml iot developer
 
 ### Coding
 
-- Python
-- JavaScript
-- PHP
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow?style=flat&logo=php)
 
 ### Frontend
 
-- HTML
-- CSS
+![HTML](https://img.shields.io/badge/HTML-Expert-blue?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat&logo=css3)
 
 ### Backend
 
-- Flask
-- Node.js
-- Git
-- Docker
+![Flask](https://img.shields.io/badge/Flask-Expert-blue?style=flat&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/Git-Intermediate-yellow?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-yellow?style=flat&logo=docker)
 
 ### AI/ML
 
-- PyTorch
-- OpenCV
-- Pandas
-- TensorFlow
-- Scikit-Learn
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-blue?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-blue?style=flat&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-blue?style=flat&logo=pandas)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Intermediate-yellow?style=flat&logo=scikit-learn)
 
 ### IoT & Hardware Dev
 
-- Raspberry Pi
-- Arduino
-- OpenCV
-- ESP8266 NodeMCU
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Expert-blue?style=flat&logo=raspberry-pi)
+![Arduino](https://img.shields.io/badge/Arduino-Expert-blue?style=flat&logo=arduino)
+![OpenCV](https://img.shields.io/badge/OpenCV-Expert-blue?style=flat&logo=opencv)
+![ESP8266 NodeMCU](https://img.shields.io/badge/ESP8266_NodeMCU-Expert-blue?style=flat&logo=espressif)
 
 ## Find Me Online
 
-- [GitHub](https://github.com/your_username) ð±
-- [LinkedIn](https://www.linkedin.com/in/your_username) ð
-- [Twitter](https://twitter.com/your_username) ð¦
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/haydenbanz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/technicalhayden)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/0x_hyd3n)
 
-Feel free to connect and explore my repositories! ð
+Feel free to connect and explore my repositories! 
+
