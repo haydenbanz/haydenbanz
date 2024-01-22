@@ -70,6 +70,9 @@ AI ml iot developer
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Intermediate-yellow?style=flat&logo=github)
 
 
+## wka
+<figure><embed src="https://wakatime.com/share/@haydenbanz/6b9b1e49-2932-40cd-b3ce-de27dca5e499.svg"></embed></figure>
+
 
 
 ## Find Me Online
