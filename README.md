@@ -6,7 +6,7 @@ AI ml iot developer
 
 ## Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username)
+![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz)
 
 
 ## About Me
