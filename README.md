@@ -1,9 +1,12 @@
 # Hi I,m 💬Hayden Barnes
 
-
-☢️ | 👨🏼‍💻 | 💤 ∅バーンズ∅ Don’t study me. You won’t graduate🎓 <3
-AI ml iot developer
-
+```
+₿バーンズ₿<br>
+I ain't codin' myself<br>
+Stop tryna analyze me, bruh<br>
+Built some sick drone controllers🚁 and doin' voice cloning 🗣️<br>
+PyBTC wrangles my Bitcoin🪙<br>
+```
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz)
