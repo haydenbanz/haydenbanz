@@ -2,10 +2,10 @@
 
 ```
 ₿バーンズ₿<br>
-I ain't codin' myself<br>
-Stop tryna analyze me, bruh<br>
-Built some sick drone controllers🚁 and doin' voice cloning 🗣️<br>
-PyBTC wrangles my Bitcoin🪙<br>
+I ain't codin' myself
+Stop tryna analyze me, bruh
+Built some sick drone controllers🚁 and doin' voice cloning 🗣
+PyBTC wrangles my Bitcoin🪙
 ```
 ## Profile 
 
