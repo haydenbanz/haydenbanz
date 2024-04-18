@@ -7,15 +7,22 @@ Stop tryna analyze me, bruh<br>
 Built some sick drone controllers🚁 and doin' voice cloning 🗣️<br>
 PyBTC wrangles my Bitcoin🪙<br>
 ```
-## Profile Views
+## Profile 
 
-![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz)
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=haydenbanz&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" />
+  <img alt="followers" src="https://img.shields.io/github/followers/haydenbanz?label=Followers&labelColor=%236A7DA8&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/haydenbanz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars">
 
+  <img src="https://myreadme.vercel.app/api/embed/haydenbanz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 ## About Me
 
 - AI/ML IoT Developer
 - Founder & CTO of Code Glitch
+
+
 
 ## Operating Systems I Use
 
