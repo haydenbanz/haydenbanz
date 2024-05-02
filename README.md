@@ -13,6 +13,9 @@ PyBTC wrangles my Bitcoin🪙
   <img src="https://komarev.com/ghpvc/?username=haydenbanz&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" />
   <img alt="followers" src="https://img.shields.io/github/followers/haydenbanz?label=Followers&labelColor=%236A7DA8&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/haydenbanz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars">
+  <img src="https://wakatime.com/badge/user/b821b78e-9c69-4c19-852e-dfc9ceffbdd2/project/018e7b0c-3e47-4454-a13a-faa296dd07de.svg?style=for-the-badge" alt="stars">
+
+
 
   <img src="https://myreadme.vercel.app/api/embed/haydenbanz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
@@ -33,7 +36,6 @@ PyBTC wrangles my Bitcoin🪙
 ![BlackArch](https://img.shields.io/badge/BlackArch-Intermediate-yellow?style=flat&logo=arch-linux)
 ![Windows 11](https://img.shields.io/badge/Windows_11-Intermediate-yellow?style=flat&logo=windows)
 ![Android](https://img.shields.io/badge/Android-Intermediate-yellow?style=flat&logo=android)
-
 
 
 
@@ -91,6 +93,14 @@ PyBTC wrangles my Bitcoin🪙
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/haydenbanz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/technicalhayden)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/0x_hyd3n)
+
+
+## Code stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=haydenbanz&show_icons=true&hide_border=true&theme=radical" />
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haydenbanz)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to connect and explore my repositories! 
 
