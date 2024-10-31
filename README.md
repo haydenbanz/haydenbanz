@@ -44,11 +44,74 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-🌆 Daytime                493 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌃 Evening                1517 commits        ██████████████░░░░░░░░░░░   56.46 % 
-🌙 Night                  573 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌞 Morning                142 commits         ██████████████░░░░░░░░░░░░░░   26.59 % 
+🌆 Daytime                177 commits         ███████████████████░░░░░░░░░░   33.15 % 
+🌃 Evening                 90 commits         █████████░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌙 Night                  125 commits         ███████████░░░░░░░░░░░░░░░░░░   23.41 % 
 ```
+
+```text
+Monday                   105 commits         ████████████████████░░░░░░░░░░   19.64 % 
+Tuesday                  102 commits         ███████████████████░░░░░░░░░░░   19.09 % 
+Wednesday                73 commits          █████████████░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 75 commits          █████████████░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   96 commits          ██████████████████░░░░░░░░░░░░   17.96 % 
+Saturday                 39 commits          ██████░░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   8 mins              ███████████████████████░░   93.41 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+
+🔥 Editors: 
+VS Code                  9 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+HadesConnect                     9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    9 mins              █████████████████████████   100.00 % 
+```
+
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+ Last Updated on 31/10/2024 06:40:12 UTC
+<!--END_SECTION:waka-->
+## Spotify:
+
+<div align="center">
+
+[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=090d13)](https://open.spotify.com/user/hay.bnz)
+</div>
+
+<br>
+
+
+
+## If you like what I do, please consider donating
+
+Monero (XMR): ```45wj2aubQQQfswkuojCQhZgHCs67nabskhrwYTDEaVmkPtcXZmrkqKKSV1JuhXLU8QfnkyagZXyBM1a9fPHrVyJkGrBxtiB```
+
+All donations are very appreciated, they help me invest more time into my projects and they support me with doing what I love the most.  
+Also, donate or this lovely little fella has to pay with his life (  he only has 9 :c  )
+
+
 
  ## Here are my stats:
 
@@ -59,15 +122,7 @@
 
 
 
-<div align="center">
-
-[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=090d13)](https://open.spotify.com/user/heanchenhorst)
-</div>
-
-
-
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=radical&no-frame=false&no-bg=false&margin-w=3)
 
 
