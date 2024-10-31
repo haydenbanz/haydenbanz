@@ -95,13 +95,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ## Spotify:
 
-<div align="center">
-
-[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=090d13)](https://open.spotify.com/user/hay.bnz)
-</div>
-
-<br>
-
 
 
 ## If you like what I do, please consider donating
@@ -124,5 +117,4 @@ Also, donate or this lovely little fella has to pay with his life (  he only has
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=radical&no-frame=false&no-bg=false&margin-w=3)
-
 
