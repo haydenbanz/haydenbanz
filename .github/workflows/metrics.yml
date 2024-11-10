@@ -34,7 +34,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: haydenbanz/metrics@latest
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -61,7 +61,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: haydenbanz/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
