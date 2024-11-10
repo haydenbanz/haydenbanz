@@ -17,12 +17,12 @@ jobs:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          HUB_TOKEN: ${{ secrets.HUB_TOKEN }}  # Ensure HUB_TOKEN is set in repository secrets
+          GITHUB_TOKEN: "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X"  # Replace this with your actual token
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push changes
         env:
-          HUB_TOKEN: ${{ secrets.HUB_TOKEN }}  # Ensure HUB_TOKEN is set here as well
+          GITHUB_TOKEN: "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"  # Replace this with your actual token
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions@github.com"
