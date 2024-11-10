@@ -22,7 +22,7 @@ jobs:
 
       - name: Commit & Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.HUB_TOKEN }}  # Ensure HUB_TOKEN is set here as well
+          HUB_TOKEN: ${{ secrets.HUB_TOKEN }}  # Ensure HUB_TOKEN is set here as well
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions@github.com"
