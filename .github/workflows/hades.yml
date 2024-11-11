@@ -8,6 +8,7 @@ on:
   schedule: [{cron: "0 16 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -28,8 +29,6 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-
-        
           plugin_music_limit: 9
 
       - name: 🦑 Achievements
@@ -82,22 +81,3 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
-          
-      - name: 🦑 Splatoon
-        uses: haydenbanz/metrics@hades
-        if: ${{ success() || failure() }}
-        with:
-          filename: splatoon.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_splatoon: yes
-          plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
-          plugin_splatoon_statink: yes
-          plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}
-          plugin_splatoon_sections: salmon-run
-          plugin_splatoon_salmon_limit: 2
-          extras_css: |
-            h2 { display: none !important; }
-            .match:not(:last-child) { padding-bottom: 4px; }
