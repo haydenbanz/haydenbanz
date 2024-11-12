@@ -5,7 +5,8 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule:
+    - cron: "0 16 * * *"
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 
@@ -122,7 +123,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           output_action: none
           delay: 120
-          user: haydenabnz
+          user: haydenbanz
           plugins_errors_fatal: yes
 
       - name: 🈷️ Languages activity - Most used
@@ -132,9 +133,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+          plugin_languages_ignored: "vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot"
           plugin_languages_limit: 4
           output_action: none
           delay: 120
@@ -148,8 +147,110 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: "html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot"
+          plugin_languages_details: "bytes-size, percentage"
           plugin_languages_limit: 4
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 📓 Featured repositories - Pinned repositories
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+      - name: 💬 Discussions - GitHub Discussions
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.discussions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 💫 Star lists - Featured star list
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.starlists.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_only: TC39
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 💫 Star lists - Featured star list languages
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.starlists.languages.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_only: Awesome
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 📆 Commit calendar - Current year calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 📆 Commit calendar - Full history calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🏆 Achievements - Detailed display
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🏆 Achievements - Compact display
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+         
