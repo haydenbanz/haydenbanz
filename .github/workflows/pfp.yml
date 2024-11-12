@@ -1,0 +1,155 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit, and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    if: github.repository == 'haydenbanz/metrics'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Checkout examples
+        run: git checkout examples
+
+      - name: 🗃️ Base content - Default metrics
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - Organization
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.organization.svg
+          user: github
+          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+          base: header, repositories
+          output_action: none
+          delay: 120
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - Large display
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.large.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - JSON metrics
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.example.json
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: json
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - PNG metrics
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.example.png
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: png
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - Metrics insights
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.insights.html
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: insights
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🧱 Core - Plugin error example
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.error.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugins_errors_fatal: no
+          output_action: none
+          delay: 120
+          user: haydenbanz
+
+      - name: 📅 Isometric commit calendar - Half-year calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+          delay: 120
+          user: haydenabnz
+          plugins_errors_fatal: yes
+
+      - name: 🈷️ Languages activity - Most used
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 4
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+
+      - name: 🈷️ Languages activity - Most used (with details)
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
