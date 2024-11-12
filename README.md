@@ -106,11 +106,8 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 <br>
 <br>
-| <b>If you like what I do,</b> |
-| ------------------------------------------------------- |
-|Please consider donating<p align="right">Monero (XMR):<br>
-<img align="right" width="80" height="80" alt="🦑" src="https://github.com/haydenbanz/haydenbanz/blob/main/assets/monro.jpg?raw=true"></p> |
 
+<img align="right" width="80" height="80" alt="🦑" src="https://github.com/haydenbanz/haydenbanz/blob/main/assets/monro.jpg?raw=true">
 
   <bt></bt>```45iyhsb1SPWEzapMmDTKWRVJeMEavd9zrdxFcNpu8vTG4M3dfpkQsQ9GiX8uAMQotAi4zoNVaNz76P5WqbgRezVt5y2FoCa```</p>
 
