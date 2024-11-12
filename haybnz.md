@@ -12,3 +12,5 @@
 <img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg">
 
 
+<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
+<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">
