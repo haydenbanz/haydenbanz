@@ -1,4 +1,4 @@
-name: Metrics
+name: Metricss
 on:
   schedule: [{cron: "0 16 * * *"}]  # Run daily at 16:00 UTC
   workflow_dispatch:  # Allow manual trigger
