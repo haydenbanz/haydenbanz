@@ -9,7 +9,7 @@
 ## About me:
   
 </p>
-<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/86d58d91980824683c2deea9d6b6c7b9cc4b40d3/github-metrics.svg">
+<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg">
 <center>
  <p algin right="right">
 <li algin="right">- I love to code    </li>
