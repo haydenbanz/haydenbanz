@@ -1,6 +1,12 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit, and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
 name: Metrics
 on:
+  # 🌏 Think about the planet! No need to update stats too frequently
   schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run the workflow manually from the Actions tab!
   workflow_dispatch:
 
 jobs:
@@ -11,9 +17,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
-      - name: Checkout examples
-        run: git checkout examples
 
       - name: 🗃️ Base content - Default metrics
         uses: haydenbanz/metrics@hades
@@ -125,7 +128,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: "vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot"
+          plugin_languages_ignored: >-
+            vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
           plugin_languages_limit: 4
           output_action: none
           delay: 120
@@ -139,8 +144,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: "html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot"
-          plugin_languages_details: "bytes-size, percentage"
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           output_action: none
           delay: 120
@@ -159,6 +166,8 @@ jobs:
           delay: 120
           user: haydenbanz
           plugins_errors_fatal: yes
+          if: ${{ success() || failure() }}
+
       - name: 💬 Discussions - GitHub Discussions
         uses: haydenbanz/metrics@hades
         with:
@@ -171,6 +180,7 @@ jobs:
           delay: 120
           user: haydenbanz
           plugins_errors_fatal: yes
+          if: ${{ success() || failure() }}
 
       - name: 💫 Star lists - Featured star list
         uses: haydenbanz/metrics@hades
@@ -185,64 +195,6 @@ jobs:
           delay: 120
           user: haydenbanz
           plugins_errors_fatal: yes
+          if: ${{ success() || failure() }}
 
-      - name: 💫 Star lists - Featured star list languages
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.starlists.languages.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 📆 Commit calendar - Current year calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 📆 Commit calendar - Full history calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 🏆 Achievements - Detailed display
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 🏆 Achievements - Compact display
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-         
+      # Add any remaining steps here
