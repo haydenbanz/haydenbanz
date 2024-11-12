@@ -101,29 +101,25 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/gist/haydenbanz/be7524ee58855f4356d4d174778283ef/raw/a8e026d8c2a9aea572970d47c28f925ae160c7ee/achievements.svg">](#)
 
 [<img align="right" width="390" alt="🦑" src="https://github.com/haydenbanz/haydenbanz/blob/main/metrics.plugin.languages.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=radical&no-frame=false&no-bg=false&margin-w=4">](#)
-[<img align="right" width="390" alt="🦑" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haydenbanz&theme=radical">](#)
+[<img align="right" width="550" alt="🦑" src="https://github-profile-trophy.vercel.app/?username=haydenbanz&theme=radical&no-frame=false&no-bg=false&margin-w=4">](#)
+<br>
+<br>
+[<img align="right" width="550" alt="code" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haydenbanz&theme=radical">](#)
+<br>
+<br>
+<img align="right" width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=haydenbanz&theme=radical&hide_border=true" alt="haydenbanz's GitHub Stats" />
 
 
+<bold>If you like what I do, please consider donating</bold>
 
+<p algin=right">Monero (XMR): 
+  <bt></bt>```45iyhsb1SPWEzapMmDTKWRVJeMEavd9zrdxFcNpu8vTG4M3dfpkQsQ9GiX8uAMQotAi4zoNVaNz76P5WqbgRezVt5y2FoCa```</p>
 
-If you like what I do, please consider donating
-
-<p algin=right">Monero (XMR): ```45iyhsb1SPWEzapMmDTKWRVJeMEavd9zrdxFcNpu8vTG4M3dfpkQsQ9GiX8uAMQotAi4zoNVaNz76P5WqbgRezVt5y2FoCa```</p>
-
-All donations are very appreciated, they help me invest more time into my projects and they support me with doing what I love the most.  
+All donations are very appreciated, they help me invest more time into my 
+projects and they support me with doing what I love the most.  
 Also, donate or this lovely little fella has to pay with his life (  he only has 9 :c  )
 
 
-
- ## Here are my stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=haydenbanz&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haydenbanz&theme=radical)](https://github.com/haydenbanz)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haydenbanz&theme=synthwave&hide_border=true" alt="haydenbanz's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenbanz&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 
 
