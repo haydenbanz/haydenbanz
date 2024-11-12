@@ -1,95 +1,172 @@
-name: Metrics Dashboard
-
+# THIS WORKFLOW IS AUTO-GENERATED
+name: Publish examples
 on:
-  schedule: [{cron: "0 16 * * *"}]  # Run daily at 16:00 UTC
-  workflow_dispatch:  # Allow manual trigger
-
+  schedule:
+    - cron: "0 8 1/2 * *"
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      METRICS_TOKEN:
+        required: true
+      METRICS_TOKEN_WITH_SCOPES:
+        required: true
+      METRICS_TOKEN_PERSONAL:
+        required: true
+      CHESS_TOKEN:
+        required: true
+      PAGESPEED_TOKEN:
+        required: true
+      GOOGLE_MAP_TOKEN:
+        required: true
+      SPLATOON_TOKEN:
+        required: true
+      SPLATOON_STATINK_TOKEN:
+        required: true
+      SIXTEEN_PERSONALITIES_URL:
+        required: true
+      SPOTIFY_TOKENS:
+        required: true
+      STOCK_TOKEN:
+        required: true
+      TWITTER_TOKEN:
+        required: true
+      WAKATIME_TOKEN:
+        required: true
 jobs:
-  generate_metrics:
+
+# ======================================================================================
+# Examples renders
+# ======================================================================================
+
+  examples:
     runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/metrics'"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "16"
-
-      - name: Generate base metrics
+      - name: Checkout examples
+        run: git checkout examples
+      
+      
+      - name: 🗃️ Base content - Default metrics
         uses: haydenbanz/metrics@hades
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.base.svg
-          user: haydenbanz
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          output_action: save
+          output_action: none
           delay: 120
+          user: haydenbanz
           plugins_errors_fatal: yes
-
-      - name: Generate large display metrics
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - Organization
         uses: haydenbanz/metrics@hades
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.organization.svg
+          user: github
+          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+          base: header, repositories
+          output_action: none
+          delay: 120
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - Large display
+        uses: haydenbanz/metrics@hades
+        with:
           filename: metrics.large.svg
-          user: haydenbanz
+          token: ${{ secrets.METRICS_TOKEN }}
           config_display: large
-          output_action: save
+          output_action: none
           delay: 120
+          user: haydenbanz
           plugins_errors_fatal: yes
-
-      - name: Generate JSON metrics
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - JSON metrics
+        if: ${{ success() || failure() }}
         uses: haydenbanz/metrics@hades
         with:
+          filename: metrics.example.json
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.json
-          user: haydenbanz
           config_output: json
-          output_action: save
+          output_action: none
           delay: 120
+          user: haydenbanz
           plugins_errors_fatal: yes
-
-      - name: Generate PNG metrics
+      - name: 🧱 Core - PNG metrics
+        if: ${{ success() || failure() }}
         uses: haydenbanz/metrics@hades
         with:
+          filename: metrics.example.png
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.png
-          user: haydenbanz
           config_output: png
-          output_action: save
+          output_action: none
           delay: 120
+          user: haydenbanz
           plugins_errors_fatal: yes
-
-      - name: Generate HTML insights
+      - name: 🧱 Core - Metrics insights
+        if: ${{ success() || failure() }}
         uses: haydenbanz/metrics@hades
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.insights.html
-          user: haydenbanz
+          token: ${{ secrets.METRICS_TOKEN }}
           config_output: insights
-          output_action: save
+          output_action: none
           delay: 120
+          user: haydenbanz
           plugins_errors_fatal: yes
-
-      - name: Upload metrics as artifacts
-        uses: actions/upload-artifact@v3
+      - name: 🧱 Core - Plugin error example
+        uses: haydenbanz/metrics@hades
         with:
-          name: metrics-artifacts
-          path: |
-            metrics.base.svg
-            metrics.large.svg
-            metrics.json
-            metrics.png
-            metrics.insights.html
-
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add -A
-          git commit -m "Update metrics [skip ci]" || echo "No changes to commit"
-          git push origin HEAD
+          filename: metrics.plugin.error.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugins_errors_fatal: no
+          output_action: none
+          delay: 120
+          user: haydenbanz
+        if: ${{ success() || failure() }}
+      - name: 📅 Isometric commit calendar - Half-year calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🈷️ Languages activity - Most used
+        uses: haydenbanz/metrics@hades
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 4
+          output_action: none
+          delay: 120
+          user: haydenbanz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      # Continue to apply these replacements for the rest of the steps...
