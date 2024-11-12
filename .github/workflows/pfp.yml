@@ -1,16 +1,10 @@
-# Licensed under The Unlicense
-# Feel free to reuse, edit, and redistribute this workflow as you wish, no credits needed
-# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
-
 name: Metrics
 on:
-  # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
-  # 💡 The following line lets you run the workflow manually from the Actions tab!
-  workflow_dispatch:
+  schedule: [{cron: "0 16 * * *"}]  # Run daily at 16:00 UTC
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  metrics:
+  generate_metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,183 +12,88 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 🗃️ Base content - Default metrics
-        uses: haydenbanz/metrics@hades
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
+          node-version: "16"
+
+      - name: Generate base metrics
+        uses: haydenbanz/metrics@hades
+        id: generate_base
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          user: haydenbanz
           base: header, activity, community, repositories, metadata
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 🧱 Core - Organization
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.organization.svg
-          user: github
-          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-          base: header, repositories
-          output_action: none
+          output_action: save
           delay: 120
           plugins_errors_fatal: yes
 
-      - name: 🧱 Core - Large display
+      - name: Generate large display metrics
         uses: haydenbanz/metrics@hades
+        id: generate_large_display
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.large.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          user: haydenbanz
           config_display: large
-          output_action: none
+          output_action: save
           delay: 120
-          user: haydenbanz
           plugins_errors_fatal: yes
 
-      - name: 🧱 Core - JSON metrics
+      - name: Generate JSON metrics
         uses: haydenbanz/metrics@hades
+        id: generate_json
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.example.json
-          token: ${{ secrets.METRICS_TOKEN }}
+          user: haydenbanz
           config_output: json
-          output_action: none
+          output_action: save
           delay: 120
-          user: haydenbanz
           plugins_errors_fatal: yes
 
-      - name: 🧱 Core - PNG metrics
+      - name: Generate PNG metrics
         uses: haydenbanz/metrics@hades
+        id: generate_png
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.example.png
-          token: ${{ secrets.METRICS_TOKEN }}
+          user: haydenbanz
           config_output: png
-          output_action: none
+          output_action: save
           delay: 120
-          user: haydenbanz
           plugins_errors_fatal: yes
 
-      - name: 🧱 Core - Metrics insights
+      - name: Generate insights HTML metrics
         uses: haydenbanz/metrics@hades
+        id: generate_insights
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.insights.html
-          token: ${{ secrets.METRICS_TOKEN }}
+          user: haydenbanz
           config_output: insights
-          output_action: none
+          output_action: save
           delay: 120
-          user: haydenbanz
           plugins_errors_fatal: yes
 
-      - name: 🧱 Core - Plugin error example
-        uses: haydenbanz/metrics@hades
+      - name: Upload metrics as artifacts
+        uses: actions/upload-artifact@v3
         with:
-          filename: metrics.plugin.error.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_projects: yes
-          plugins_errors_fatal: no
-          output_action: none
-          delay: 120
-          user: haydenbanz
+          name: metrics-artifacts
+          path: |
+            metrics.base.svg
+            metrics.large.svg
+            metrics.example.json
+            metrics.example.png
+            metrics.insights.html
 
-      - name: 📅 Isometric commit calendar - Half-year calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 📅 Isometric commit calendar - Full-year calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 🈷️ Languages activity - Most used
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            vue, java, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 4
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 🈷️ Languages activity - Most used (with details)
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-
-      - name: 📓 Featured repositories - Pinned repositories
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.repositories.pinned.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 2
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-          if: ${{ success() || failure() }}
-
-      - name: 💬 Discussions - GitHub Discussions
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.discussions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-          if: ${{ success() || failure() }}
-
-      - name: 💫 Star lists - Featured star list
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.starlists.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_only: TC39
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-          if: ${{ success() || failure() }}
-
-      # Add any remaining steps here
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Update metrics [skip ci]" || echo "No changes to commit"
+          git push origin HEAD
