@@ -12,6 +12,21 @@
 - I am an AI enthusiast
 - Privacy is a universal right
 
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/86d58d91980824683c2deea9d6b6c7b9cc4b40d3/github-metrics.svg">](#)
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+<br>
+
+
 <br>
 
 
@@ -20,12 +35,9 @@
   <img alt="followers" src="https://img.shields.io/github/followers/haydenbanz?label=Followers&labelColor=%236A7DA8&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/haydenbanz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars">
   <img src="https://wakatime.com/badge/user/b821b78e-9c69-4c19-852e-dfc9ceffbdd2/project/018e7b0c-3e47-4454-a13a-faa296dd07de.svg?style=for-the-badge" alt="hayden">
-
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2030%20mins-blue?style=for-the-badge)
-   
-
-![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-193.2%20thousand%20lines%20of%20code-blue?style=for-the-badge)
+ ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2030%20mins-blue?style=for-the-badge)
+   ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
+    ![Lines of code](https://img.shields.io/badge/From%20Hay%20Codes%20%20code-blue?style=for-the-badge)
 </center>
 
 
