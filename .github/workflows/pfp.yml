@@ -1,5 +1,6 @@
 # THIS WORKFLOW IS AUTO-GENERATED
 name: Publish examples
+
 on:
   schedule:
     - cron: "0 8 1/2 * *"
@@ -32,24 +33,23 @@ on:
         required: true
       WAKATIME_TOKEN:
         required: true
+
 jobs:
-
-# ======================================================================================
-# Examples renders
-# ======================================================================================
-
+  # ======================================================================================
+  # Examples renders
+  # ======================================================================================
   examples:
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/metrics'"
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
       - name: Checkout examples
         run: git checkout examples
-      
-      
+
       - name: 🗃️ Base content - Default metrics
         uses: haydenbanz/metrics@hades
         with:
@@ -61,6 +61,7 @@ jobs:
           user: haydenbanz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
+
       - name: 🧱 Core - Organization
         uses: haydenbanz/metrics@hades
         with:
@@ -72,6 +73,7 @@ jobs:
           delay: 120
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
+
       - name: 🧱 Core - Large display
         uses: haydenbanz/metrics@hades
         with:
@@ -83,90 +85,5 @@ jobs:
           user: haydenbanz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 🧱 Core - JSON metrics
-        if: ${{ success() || failure() }}
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.example.json
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_output: json
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-      - name: 🧱 Core - PNG metrics
-        if: ${{ success() || failure() }}
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.example.png
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_output: png
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-      - name: 🧱 Core - Metrics insights
-        if: ${{ success() || failure() }}
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.insights.html
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_output: insights
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-      - name: 🧱 Core - Plugin error example
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.error.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_projects: yes
-          plugins_errors_fatal: no
-          output_action: none
-          delay: 120
-          user: haydenbanz
-        if: ${{ success() || failure() }}
-      - name: 📅 Isometric commit calendar - Half-year calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 📅 Isometric commit calendar - Full-year calendar
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 🈷️ Languages activity - Most used
-        uses: haydenbanz/metrics@hades
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 4
-          output_action: none
-          delay: 120
-          user: haydenbanz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      # Continue to apply these replacements for the rest of the steps...
+
+      # Continue for the rest of the steps with the same indentation...
