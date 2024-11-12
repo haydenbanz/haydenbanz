@@ -11,7 +11,7 @@
 </p>
 <img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/86d58d91980824683c2deea9d6b6c7b9cc4b40d3/github-metrics.svg">
 <center>
- 
+ <p algin right="right">
 <li algin="right">- I love to code    </li>
 <li algin="right">- I am a huge fan of Cybersecurity</li>
 <li algin="right">- I am an AI enthusiast</li>
@@ -145,7 +145,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 <br>
 <br>
-
+</p>
 <img align="right" width="80" height="80" alt="🦑" src="https://github.com/haydenbanz/haydenbanz/blob/main/assets/monro.jpg?raw=true">
 
   <bt></bt>```45iyhsb1SPWEzapMmDTKWRVJeMEavd9zrdxFcNpu8vTG4M3dfpkQsQ9GiX8uAMQotAi4zoNVaNz76P5WqbgRezVt5y2FoCa```</p>
