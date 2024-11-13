@@ -6,10 +6,15 @@
 </p>
 <p algin="right">
   
-## About me:
-  
-</p>
-<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/69f7db5b6e05b3a7d3bffdd4815fcff1cc40f30f/assets/github-metrics.svg">
+<div class="container">
+  <!-- Left Section -->
+  <div class="section">
+    <img src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg" alt="Left Image">
+  </div>
 
-
-<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
+  <!-- Right Section -->
+  <div class="section">
+    <img src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p" alt="Right Image">
+    <img src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg" alt="Placeholder Image" height="80">
+  </div>
+</div>
