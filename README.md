@@ -4,18 +4,16 @@
 
   <a href="https://github.com/haydenbanz"><img  src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
 </p>
+
+<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg">
 <p algin="right">
-  <img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
-<img align="right" width="390"  alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/ea1450a546d775f33689bd1e47cd75a1bc9c4efc/assets/achievements.svg">
+  <img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/3d2fcf5f672adbc3ef13103490fb7e48fe59676a/assets/github-metrics(2).svg">
+
+</p>">
 
   
 </p>
-<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg">
-<center>
- 
 
-
-</center>
 
   <img src="https://komarev.com/ghpvc/?username=haydenbanz&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" /><img alt="followers" src="https://img.shields.io/github/followers/haydenbanz?label=Followers&labelColor=%236A7DA8&style=for-the-badge"> <img src="https://img.shields.io/github/stars/haydenbanz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars"> <img src="https://wakatime.com/badge/user/b821b78e-9c69-4c19-852e-dfc9ceffbdd2/project/018e7b0c-3e47-4454-a13a-faa296dd07de.svg?style=for-the-badge" alt="hayden"> 
     ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2030%20mins-blue?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
