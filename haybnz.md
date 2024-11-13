@@ -1,4 +1,4 @@
-# Hi I,m 💬Hay.Banz
+# Hi I,m  💬Hay.Banz
 
 
 
@@ -6,19 +6,11 @@
 </p>
 <p algin="right">
   
- <h4 class="h2 article-title">About me</h4>
+## About me:
   
 </p>
+<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/69f7db5b6e05b3a7d3bffdd4815fcff1cc40f30f/assets/github-metrics.svg">
 
-<section class="layout-section">
-  <!-- Left Section -->
-  <div class="section">
-    <img src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg" alt="Left Image">
-  </div>
 
-  <!-- Right Section -->
-  <div class="section">
-    <img src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p" alt="Right Image">
-    <img src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg" alt="Placeholder Image" height="80">
-  </div>
-</section>
+<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
+<img align="right" width="390"  alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/ea1450a546d775f33689bd1e47cd75a1bc9c4efc/assets/achievements.svg">
