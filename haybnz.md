@@ -13,4 +13,3 @@
 
 
 <img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
-<img align="right" width="390"  alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/ea1450a546d775f33689bd1e47cd75a1bc9c4efc/assets/achievements.svg">
