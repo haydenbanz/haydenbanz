@@ -8,6 +8,7 @@
 <img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/317b161b0e9d9eeac4617a874a2a67df7c66e8e1/github-metrics.svg">
 <p algin="right">
   <img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/3d2fcf5f672adbc3ef13103490fb7e48fe59676a/assets/github-metrics(2).svg">
+ <img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/haydenbanz/haydenbanz/515b1cfe0f3865bfb33d52305d4fb1a9cb1c190d/assets/github-metrics(4).svg">
 
 </p>">
 
