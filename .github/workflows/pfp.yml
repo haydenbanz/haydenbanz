@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: haydenbanz/metrics@hades
+      - uses: haybnz/metrics@hades
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: haydenbanz
+          user: haybnz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
