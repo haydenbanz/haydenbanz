@@ -16,7 +16,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: haybnz/metrics@hades
+        uses: haybnzz/metrics@hades
         with:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
@@ -33,7 +33,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: haybnz/metrics@hades
+        uses: haybnzz/metrics@hades
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -46,7 +46,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: haybnz/metrics@hades
+        uses: haybnzz/metrics@hades
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -60,7 +60,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: haybnz/metrics@hades
+        uses: haybnzz/metrics@hades
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
