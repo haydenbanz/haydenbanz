@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: haybnz/metrics@hades
+      - uses: haybnzz/metrics@hades
         with:
           # Your GitHub token
           # The following scopes are required:
