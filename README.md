@@ -16,7 +16,7 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=haydenbanz&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" /><img alt="followers" src="https://img.shields.io/github/followers/haydenbanz?label=Followers&labelColor=%236A7DA8&style=for-the-badge"> <img src="https://img.shields.io/github/stars/haydenbanz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars"> <img src="https://wakatime.com/badge/user/b821b78e-9c69-4c19-852e-dfc9ceffbdd2/project/018e7b0c-3e47-4454-a13a-faa296dd07de.svg?style=for-the-badge" alt="hayden"> 
+  <img src="https://komarev.com/ghpvc/?username=haybnzz&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" /><img alt="followers" src="https://img.shields.io/github/followers/haybnzz?label=Followers&labelColor=%236A7DA8&style=for-the-badge"> <img src="https://img.shields.io/github/stars/haybnzz?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars"> <img src="https://wakatime.com/badge/user/b821b78e-9c69-4c19-852e-dfc9ceffbdd2/project/018e7b0c-3e47-4454-a13a-faa296dd07de.svg?style=for-the-badge" alt="hayden"> 
     ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2030%20mins-blue?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
 
 
